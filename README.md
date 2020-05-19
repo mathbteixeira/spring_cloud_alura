@@ -2,7 +2,7 @@
 Microsserviços desenvolvidos ao longo do curso "Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing" da Alura.
 
 ## Tópicos e tecnologias abordados: ##
-- Spring Cloud Eureka
+- Spring Cloud Netflix - Eureka
 - Service Registry e Discovery
 - Spring Feign
 - Clientside Load Balance
